@@ -9,7 +9,7 @@ public class Main {
         System.out.println("  ___");
         System.out.println("(' V ')");
         System.out.println("((___))");
-        System.out.println("  ^ ^ ");
+        System.out.println("  ^'^ ");
 
 
     }
